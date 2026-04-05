@@ -1,3 +1,4 @@
+Simple cam streamer created using python and opencv.
 
 First Create Conda Env: 
   •  conda create -n ENV_NAME python=3.11.13
